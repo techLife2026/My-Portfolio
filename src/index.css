@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Ysabeau:ital,wght@0,1..1000;1,1..1000&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+  --font-ysabeau: "Ysabeau", sans-serif;
+}
